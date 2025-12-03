@@ -1,0 +1,4910 @@
+{
+    "Chips": {
+        "AMD": {
+            "Am29F002(N)BB": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x0134",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "Am29F002(N)BB"
+            },
+            "Am29F002(N)BT": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01b0",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "Am29F002(N)BT"
+            },
+            "Am29F010": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x0120",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "Am29F010"
+            },
+            "Am29F010A/B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x0120",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "Am29F010A/B"
+            },
+            "Am29F016D": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01ad",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "Am29F016D"
+            },
+            "Am29F040": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01a4",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "Am29F040"
+            },
+            "Am29F040B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01a4",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "Am29F040B"
+            },
+            "Am29F080": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01d5",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "Am29F080"
+            },
+            "Am29F080B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01d5",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "Am29F080B"
+            },
+            "Am29LV001BB": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x016d",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "Am29LV001BB"
+            },
+            "Am29LV001BT": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01ed",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "Am29LV001BT"
+            },
+            "Am29LV002BB": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01c2",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "Am29LV002BB"
+            },
+            "Am29LV002BT": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x0140",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "Am29LV002BT"
+            },
+            "Am29LV004BB": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01b6",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "Am29LV004BB"
+            },
+            "Am29LV004BT": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01b5",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "Am29LV004BT"
+            },
+            "Am29LV008BB": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x0137",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "Am29LV008BB"
+            },
+            "Am29LV008BT": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x013e",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "Am29LV008BT"
+            },
+            "Am29LV040B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x014f",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "Am29LV040B"
+            },
+            "Am29LV081B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x0138",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "Am29LV081B"
+            }
+        },
+        "AMIC": {
+            "A25L010": {
+                "bus": "SPI",
+                "jedec_id": "0x373011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "A25L010"
+            },
+            "A25L016": {
+                "bus": "SPI",
+                "jedec_id": "0x373015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "A25L016"
+            },
+            "A25L020": {
+                "bus": "SPI",
+                "jedec_id": "0x373012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "A25L020"
+            },
+            "A25L032": {
+                "bus": "SPI",
+                "jedec_id": "0x373016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "A25L032"
+            },
+            "A25L040": {
+                "bus": "SPI",
+                "jedec_id": "0x373013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "A25L040"
+            },
+            "A25L05PT": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372020",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "A25L05PT"
+            },
+            "A25L05PU": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372010",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "A25L05PU"
+            },
+            "A25L080": {
+                "bus": "SPI",
+                "jedec_id": "0x373014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "A25L080"
+            },
+            "A25L10PT": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372021",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "A25L10PT"
+            },
+            "A25L10PU": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "A25L10PU"
+            },
+            "A25L16PT": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372025",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "A25L16PT"
+            },
+            "A25L16PU": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "A25L16PU"
+            },
+            "A25L20PT": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372022",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "A25L20PT"
+            },
+            "A25L20PU": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "A25L20PU"
+            },
+            "A25L40PT": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "A25L40PT"
+            },
+            "A25L40PU": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "A25L40PU"
+            },
+            "A25L512": {
+                "bus": "SPI",
+                "jedec_id": "0x373010",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "A25L512"
+            },
+            "A25L80P": {
+                "bus": "SPI",
+                "jedec_id": "0x7f372014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "A25L80P"
+            },
+            "A25LQ032/A25LQ32A": {
+                "bus": "SPI",
+                "jedec_id": "0x374016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "A25LQ032/A25LQ32A"
+            },
+            "A25LQ16": {
+                "bus": "SPI",
+                "jedec_id": "0x374015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "A25LQ16"
+            },
+            "A25LQ64": {
+                "bus": "SPI",
+                "jedec_id": "0x374017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "A25LQ64"
+            },
+            "A29002B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x370d",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "A29002B"
+            },
+            "A29002T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x378c",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "A29002T"
+            },
+            "A29040B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x3786",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "A29040B"
+            }
+        },
+        "Atmel": {
+            "AT25DF011": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4200",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DF011"
+            },
+            "AT25DF021": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4300",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DF021"
+            },
+            "AT25DF021A": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4301",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DF021A"
+            },
+            "AT25DF041A": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4401",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DF041A"
+            },
+            "AT25DF081": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4502",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DF081"
+            },
+            "AT25DF081A": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4501",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DF081A"
+            },
+            "AT25DF161": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4602",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DF161"
+            },
+            "AT25DF321": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4700",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DF321"
+            },
+            "AT25DF321A": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4701",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DF321A"
+            },
+            "AT25DF641(A)": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4800",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DF641(A)"
+            },
+            "AT25DL081": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4502",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DL081"
+            },
+            "AT25DL161": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4603",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DL161"
+            },
+            "AT25DQ161": {
+                "bus": "SPI",
+                "jedec_id": "0x1f8600",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "AT25DQ161"
+            },
+            "AT25F1024(A)": {
+                "bus": "SPI",
+                "jedec_id": "0x1f60",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "AT25F1024(A)"
+            },
+            "AT25F2048": {
+                "bus": "SPI",
+                "jedec_id": "0x1f63",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "AT25F2048"
+            },
+            "AT25F4096": {
+                "bus": "SPI",
+                "jedec_id": "0x1f64",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "AT25F4096"
+            },
+            "AT25F512": {
+                "bus": "SPI",
+                "jedec_id": "0x1f60",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "AT25F512"
+            },
+            "AT25F512A": {
+                "bus": "SPI",
+                "jedec_id": "0x1f65",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "AT25F512A"
+            },
+            "AT25F512B": {
+                "bus": "SPI",
+                "jedec_id": "0x1f6500",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "AT25F512B"
+            },
+            "AT25FS010": {
+                "bus": "SPI",
+                "jedec_id": "0x1f6601",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "AT25FS010"
+            },
+            "AT25FS040": {
+                "bus": "SPI",
+                "jedec_id": "0x1f6604",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "AT25FS040"
+            },
+            "AT25SF041": {
+                "bus": "SPI",
+                "jedec_id": "0x1f8401",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "AT25SF041"
+            },
+            "AT25SF081": {
+                "bus": "SPI",
+                "jedec_id": "0x1f8501",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "AT25SF081"
+            },
+            "AT25SF128A": {
+                "bus": "SPI",
+                "jedec_id": "0x1f8901",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "AT25SF128A"
+            },
+            "AT25SF161": {
+                "bus": "SPI",
+                "jedec_id": "0x1f8601",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "AT25SF161"
+            },
+            "AT25SF321": {
+                "bus": "SPI",
+                "jedec_id": "0x1f8701",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "AT25SF321"
+            },
+            "AT25SL128A": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4218",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "AT25SL128A"
+            },
+            "AT26DF041": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4400",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "AT26DF041"
+            },
+            "AT26DF081A": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4501",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "AT26DF081A"
+            },
+            "AT26DF161": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4600",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "AT26DF161"
+            },
+            "AT26DF161A": {
+                "bus": "SPI",
+                "jedec_id": "0x1f4601",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "AT26DF161A"
+            },
+            "AT26F004": {
+                "bus": "SPI",
+                "jedec_id": "0x1f0400",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "AT26F004"
+            },
+            "AT29C010A": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1fd5",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "AT29C010A"
+            },
+            "AT29C020": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1fda",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "AT29C020"
+            },
+            "AT29C040A": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1fa4",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "AT29C040A"
+            },
+            "AT29C512": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1f5d",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "AT29C512"
+            },
+            "AT45CS1282": {
+                "bus": "SPI",
+                "jedec_id": "0x1f2920",
+                "size_kb": 16896,
+                "size_str": "16896 KB / 132 Mbit",
+                "erase_blocks": [],
+                "name": "AT45CS1282"
+            },
+            "AT45DB011D": {
+                "bus": "SPI",
+                "jedec_id": "0x1f2200",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "AT45DB011D"
+            },
+            "AT45DB021D": {
+                "bus": "SPI",
+                "jedec_id": "0x1f2300",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "AT45DB021D"
+            },
+            "AT45DB041D": {
+                "bus": "SPI",
+                "jedec_id": "0x1f2400",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "AT45DB041D"
+            },
+            "AT45DB081D": {
+                "bus": "SPI",
+                "jedec_id": "0x1f2500",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "AT45DB081D"
+            },
+            "AT45DB161D": {
+                "bus": "SPI",
+                "jedec_id": "0x1f2600",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "AT45DB161D"
+            },
+            "AT45DB321C": {
+                "bus": "SPI",
+                "jedec_id": "0x1f2700",
+                "size_kb": 4224,
+                "size_str": "4224 KB / 33 Mbit",
+                "erase_blocks": [],
+                "name": "AT45DB321C"
+            },
+            "AT45DB321D": {
+                "bus": "SPI",
+                "jedec_id": "0x1f2701",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "AT45DB321D"
+            },
+            "AT45DB321E": {
+                "bus": "SPI",
+                "jedec_id": "0x1f2700",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "AT45DB321E"
+            },
+            "AT45DB642D": {
+                "bus": "SPI",
+                "jedec_id": "0x1f2800",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "AT45DB642D"
+            },
+            "AT49(H)F010": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1f17",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "AT49(H)F010"
+            },
+            "AT49BV512": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1f03",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "AT49BV512"
+            },
+            "AT49F002(N)": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1f07",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "AT49F002(N)"
+            },
+            "AT49F002(N)T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1f08",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "AT49F002(N)T"
+            },
+            "AT49F020": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1f0b",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "AT49F020"
+            },
+            "AT49F040": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1f13",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "AT49F040"
+            },
+            "AT49F080": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x1f23",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "AT49F080"
+            }
+        },
+        "Boya/BoHong Microelectronics": {
+            "B.25D16A": {
+                "bus": "SPI",
+                "jedec_id": "0x684015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "B.25D16A"
+            },
+            "B.25D80A": {
+                "bus": "SPI",
+                "jedec_id": "0x684014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "B.25D80A"
+            },
+            "B.25Q64AS": {
+                "bus": "SPI",
+                "jedec_id": "0x684017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "B.25Q64AS"
+            },
+            "B.25Q128AS": {
+                "bus": "SPI",
+                "jedec_id": "0x684018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "B.25Q128AS"
+            }
+        },
+        "Bright": {
+            "BM29F040": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xad40",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "BM29F040"
+            }
+        },
+        "Catalyst": {
+            "CAT28F512": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x31b8",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "CAT28F512"
+            }
+        },
+        "ESI": {
+            "ES25P16": {
+                "bus": "SPI",
+                "jedec_id": "0x4a2015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "ES25P16"
+            },
+            "ES25P40": {
+                "bus": "SPI",
+                "jedec_id": "0x4a2013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "ES25P40"
+            },
+            "ES25P80": {
+                "bus": "SPI",
+                "jedec_id": "0x4a2014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "ES25P80"
+            }
+        },
+        "ESMT": {
+            "F25L008A": {
+                "bus": "SPI",
+                "jedec_id": "0x8c2014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "F25L008A"
+            },
+            "F25L32PA": {
+                "bus": "SPI",
+                "jedec_id": "0x8c2016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "F25L32PA"
+            },
+            "F49B002UA": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x8c00",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "F49B002UA"
+            }
+        },
+        "Eon": {
+            "EN25B05": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2010",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B05"
+            },
+            "EN25B05T": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2010",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B05T"
+            },
+            "EN25B10": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B10"
+            },
+            "EN25B10T": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B10T"
+            },
+            "EN25B16": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B16"
+            },
+            "EN25B16T": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B16T"
+            },
+            "EN25B20": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B20"
+            },
+            "EN25B20T": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B20T"
+            },
+            "EN25B32": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B32"
+            },
+            "EN25B32T": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B32T"
+            },
+            "EN25B40": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B40"
+            },
+            "EN25B40T": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B40T"
+            },
+            "EN25B64": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B64"
+            },
+            "EN25B64T": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B64T"
+            },
+            "EN25B80": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B80"
+            },
+            "EN25B80T": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "EN25B80T"
+            },
+            "EN25F05": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3110",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "EN25F05"
+            },
+            "EN25F10": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3111",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "EN25F10"
+            },
+            "EN25F16": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3115",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "EN25F16"
+            },
+            "EN25F20": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3112",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "EN25F20"
+            },
+            "EN25F32": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3116",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "EN25F32"
+            },
+            "EN25F40": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3113",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "EN25F40"
+            },
+            "EN25F64": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3117",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN25F64"
+            },
+            "EN25F80": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3114",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "EN25F80"
+            },
+            "EN25P05": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2010",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "EN25P05"
+            },
+            "EN25P10": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "EN25P10"
+            },
+            "EN25P16": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "EN25P16"
+            },
+            "EN25P20": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "EN25P20"
+            },
+            "EN25P32": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "EN25P32"
+            },
+            "EN25P40": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "EN25P40"
+            },
+            "EN25P64": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN25P64"
+            },
+            "EN25P80": {
+                "bus": "SPI",
+                "jedec_id": "0x1c2014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "EN25P80"
+            },
+            "EN25Q128": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "EN25Q128"
+            },
+            "EN25Q32(A/B)": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "EN25Q32(A/B)"
+            },
+            "EN25Q40": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "EN25Q40"
+            },
+            "EN25Q64": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN25Q64"
+            },
+            "EN25Q80(A)": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "EN25Q80(A)"
+            },
+            "EN25QH128": {
+                "bus": "SPI",
+                "jedec_id": "0x1c7018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "EN25QH128"
+            },
+            "EN25QH16": {
+                "bus": "SPI",
+                "jedec_id": "0x1c7015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "EN25QH16"
+            },
+            "EN25QH32": {
+                "bus": "SPI",
+                "jedec_id": "0x1c7016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "EN25QH32"
+            },
+            "EN25QH32B": {
+                "bus": "SPI",
+                "jedec_id": "0x1c7016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "EN25QH32B"
+            },
+            "EN25QH64": {
+                "bus": "SPI",
+                "jedec_id": "0x1c7017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN25QH64"
+            },
+            "EN25QH64A": {
+                "bus": "SPI",
+                "jedec_id": "0x1c7017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN25QH64A"
+            },
+            "EN25QX128A": {
+                "bus": "SPI",
+                "jedec_id": "0x1c7118",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "EN25QX128A"
+            },
+            "EN25S10": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3811",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "EN25S10"
+            },
+            "EN25S16": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3815",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "EN25S16"
+            },
+            "EN25S20": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3812",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "EN25S20"
+            },
+            "EN25S32": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3816",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "EN25S32"
+            },
+            "EN25S40": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3813",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "EN25S40"
+            },
+            "EN25S64": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3817",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN25S64"
+            },
+            "EN25S80": {
+                "bus": "SPI",
+                "jedec_id": "0x1c3814",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "EN25S80"
+            },
+            "EN29F002(A)(N)B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x7f1c7f97",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "EN29F002(A)(N)B"
+            },
+            "EN29F002(A)(N)T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x7f1c7f92",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "EN29F002(A)(N)T"
+            },
+            "EN29F010": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x7f1c20",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "EN29F010"
+            },
+            "EN29GL064(A)B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x7f1c7e1000",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN29GL064(A)B"
+            },
+            "EN29GL064(A)T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x7f1c7e1001",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN29GL064(A)T"
+            },
+            "EN29GL064H/L": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x7f1c7e0c01",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN29GL064H/L"
+            },
+            "EN29GL128": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x7f1c7f2101",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "EN29GL128"
+            },
+            "EN29LV040(A)": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x7f1c4f",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "EN29LV040(A)"
+            },
+            "EN29LV640B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x7f1ccb",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "EN29LV640B"
+            }
+        },
+        "Fudan": {
+            "FM25F005": {
+                "bus": "SPI",
+                "jedec_id": "0xa13110",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "FM25F005"
+            },
+            "FM25F01": {
+                "bus": "SPI",
+                "jedec_id": "0xa13111",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "FM25F01"
+            },
+            "FM25F02(A)": {
+                "bus": "SPI",
+                "jedec_id": "0xa13112",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "FM25F02(A)"
+            },
+            "FM25F04(A)": {
+                "bus": "SPI",
+                "jedec_id": "0xa13113",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "FM25F04(A)"
+            },
+            "FM25Q04": {
+                "bus": "SPI",
+                "jedec_id": "0xa14013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "FM25Q04"
+            },
+            "FM25Q08": {
+                "bus": "SPI",
+                "jedec_id": "0xa14014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "FM25Q08"
+            },
+            "FM25Q16": {
+                "bus": "SPI",
+                "jedec_id": "0xa14015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "FM25Q16"
+            },
+            "FM25Q32": {
+                "bus": "SPI",
+                "jedec_id": "0xa14016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "FM25Q32"
+            },
+            "FM25Q64": {
+                "bus": "SPI",
+                "jedec_id": "0xa14017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "FM25Q64"
+            },
+            "FM25Q128": {
+                "bus": "SPI",
+                "jedec_id": "0xa14018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "FM25Q128"
+            }
+        },
+        "Fujitsu": {
+            "MBM29F004BC": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x047b",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "MBM29F004BC"
+            },
+            "MBM29F004TC": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x0477",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "MBM29F004TC"
+            },
+            "MBM29F400TC": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x0423",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "MBM29F400TC"
+            },
+            "MBM29LV160BE": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x0449",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MBM29LV160BE"
+            },
+            "MBM29LV160TE": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x04c4",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MBM29LV160TE"
+            }
+        },
+        "GigaDevice": {
+            "GD25B128B/GD25Q128B": {
+                "bus": "SPI",
+                "jedec_id": "0xc84018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "GD25B128B/GD25Q128B"
+            },
+            "GD25LF128E": {
+                "bus": "SPI",
+                "jedec_id": "0xc86318",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LF128E"
+            },
+            "GD25LF256F": {
+                "bus": "SPI",
+                "jedec_id": "0xc86319",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LF256F"
+            },
+            "GD25LF512MF": {
+                "bus": "SPI",
+                "jedec_id": "0xc8631a",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LF512MF"
+            },
+            "GD25LQ128E/GD25LB128E/GD25LR128E/GD25LQ128D/GD25LQ128C": {
+                "bus": "SPI",
+                "jedec_id": "0xc86018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LQ128E/GD25LB128E/GD25LR128E/GD25LQ128D/GD25LQ128C"
+            },
+            "GD25LQ255E": {
+                "bus": "SPI",
+                "jedec_id": "0xc86019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LQ255E"
+            },
+            "GD25LQ16": {
+                "bus": "SPI",
+                "jedec_id": "0xc86015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LQ16"
+            },
+            "GD25LQ32": {
+                "bus": "SPI",
+                "jedec_id": "0xc86016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LQ32"
+            },
+            "GD25LQ40": {
+                "bus": "SPI",
+                "jedec_id": "0xc86013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LQ40"
+            },
+            "GD25LQ64(B)": {
+                "bus": "SPI",
+                "jedec_id": "0xc86017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LQ64(B)"
+            },
+            "GD25LQ80": {
+                "bus": "SPI",
+                "jedec_id": "0xc86014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LQ80"
+            },
+            "GD25LB256E/GD25LR256E": {
+                "bus": "SPI",
+                "jedec_id": "0xc86719",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LB256E/GD25LR256E"
+            },
+            "GD25LB256F/GD25LR256F": {
+                "bus": "SPI",
+                "jedec_id": "0xc86019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LB256F/GD25LR256F"
+            },
+            "GD25LB512MF/GD25LR512MF": {
+                "bus": "SPI",
+                "jedec_id": "0xc8601a",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LB512MF/GD25LR512MF"
+            },
+            "GD25LB512ME/GD25LR512ME": {
+                "bus": "SPI",
+                "jedec_id": "0xc8671a",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "GD25LB512ME/GD25LR512ME"
+            },
+            "GD25Q10": {
+                "bus": "SPI",
+                "jedec_id": "0xc84011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q10"
+            },
+            "GD25Q128E/GD25B128E/GD25R128E/GD25Q127C": {
+                "bus": "SPI",
+                "jedec_id": "0xc84018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q128E/GD25B128E/GD25R128E/GD25Q127C"
+            },
+            "GD25Q128C": {
+                "bus": "SPI",
+                "jedec_id": "0xc84018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q128C"
+            },
+            "GD25Q16(B)": {
+                "bus": "SPI",
+                "jedec_id": "0xc84015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q16(B)"
+            },
+            "GD25Q20(B)": {
+                "bus": "SPI",
+                "jedec_id": "0xc84012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q20(B)"
+            },
+            "GD25Q256E/GD25B256E/GD25R256E/GD25Q256D": {
+                "bus": "SPI",
+                "jedec_id": "0xc84019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q256E/GD25B256E/GD25R256E/GD25Q256D"
+            },
+            "GD25B512MF/GD25R512MF": {
+                "bus": "SPI",
+                "jedec_id": "0xc8401a",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "GD25B512MF/GD25R512MF"
+            },
+            "GD25Q32(B)": {
+                "bus": "SPI",
+                "jedec_id": "0xc84016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q32(B)"
+            },
+            "GD25Q40(B)": {
+                "bus": "SPI",
+                "jedec_id": "0xc84013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q40(B)"
+            },
+            "GD25Q512": {
+                "bus": "SPI",
+                "jedec_id": "0xc84010",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q512"
+            },
+            "GD25Q64(B)": {
+                "bus": "SPI",
+                "jedec_id": "0xc84017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q64(B)"
+            },
+            "GD25Q80(B)": {
+                "bus": "SPI",
+                "jedec_id": "0xc84014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "GD25Q80(B)"
+            },
+            "GD25T80": {
+                "bus": "SPI",
+                "jedec_id": "0xc83114",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "GD25T80"
+            },
+            "GD25VQ16C": {
+                "bus": "SPI",
+                "jedec_id": "0xc84215",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "GD25VQ16C"
+            },
+            "GD25VQ21B": {
+                "bus": "SPI",
+                "jedec_id": "0xc84212",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "GD25VQ21B"
+            },
+            "GD25VQ40C": {
+                "bus": "SPI",
+                "jedec_id": "0xc84213",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "GD25VQ40C"
+            },
+            "GD25VQ41B": {
+                "bus": "SPI",
+                "jedec_id": "0xc84213",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "GD25VQ41B"
+            },
+            "GD25VQ80C": {
+                "bus": "SPI",
+                "jedec_id": "0xc84214",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "GD25VQ80C"
+            },
+            "GD25F64F": {
+                "bus": "SPI",
+                "jedec_id": "0xc84317",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "GD25F64F"
+            },
+            "GD25F128F": {
+                "bus": "SPI",
+                "jedec_id": "0xc84318",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "GD25F128F"
+            },
+            "GD25F256F": {
+                "bus": "SPI",
+                "jedec_id": "0xc84319",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "GD25F256F"
+            },
+            "GD25WQ80E": {
+                "bus": "SPI",
+                "jedec_id": "0xc86514",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "GD25WQ80E"
+            }
+        },
+        "Hyundai": {
+            "HY29F002B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xad34",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "HY29F002B"
+            },
+            "HY29F002T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xadb0",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "HY29F002T"
+            },
+            "HY29F040A": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xada4",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "HY29F040A"
+            }
+        },
+        "ISSI": {
+            "IS25LP016": {
+                "bus": "SPI",
+                "jedec_id": "0x9d6015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "IS25LP016"
+            },
+            "IS25LP064": {
+                "bus": "SPI",
+                "jedec_id": "0x9d6017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "IS25LP064"
+            },
+            "IS25LP128": {
+                "bus": "SPI",
+                "jedec_id": "0x9d6018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "IS25LP128"
+            },
+            "IS25LP256": {
+                "bus": "SPI",
+                "jedec_id": "0x9d6019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "IS25LP256"
+            },
+            "IS25LQ016": {
+                "bus": "SPI",
+                "jedec_id": "0x9d1445",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "IS25LQ016"
+            },
+            "IS25WP016": {
+                "bus": "SPI",
+                "jedec_id": "0x9d7015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "IS25WP016"
+            },
+            "IS25WP020": {
+                "bus": "SPI",
+                "jedec_id": "0x9d7012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "IS25WP020"
+            },
+            "IS25WP032": {
+                "bus": "SPI",
+                "jedec_id": "0x9d7016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "IS25WP032"
+            },
+            "IS25WP040": {
+                "bus": "SPI",
+                "jedec_id": "0x9d7013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "IS25WP040"
+            },
+            "IS25WP064": {
+                "bus": "SPI",
+                "jedec_id": "0x9d7017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "IS25WP064"
+            },
+            "IS25WP080": {
+                "bus": "SPI",
+                "jedec_id": "0x9d7014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "IS25WP080"
+            },
+            "IS25WP128": {
+                "bus": "SPI",
+                "jedec_id": "0x9d7018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "IS25WP128"
+            },
+            "IS25WP256": {
+                "bus": "SPI",
+                "jedec_id": "0x9d7019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "IS25WP256"
+            },
+            "IS25WQ040": {
+                "bus": "SPI",
+                "jedec_id": "0x9d1253",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "IS25WQ040"
+            },
+            "IS29GL064B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xd57e1000",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "IS29GL064B"
+            },
+            "IS29GL064H/L": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xd57e0c01",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "IS29GL064H/L"
+            },
+            "IS29GL064T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xd57e1001",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "IS29GL064T"
+            },
+            "IS29GL128H/L": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xd57e2101",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "IS29GL128H/L"
+            }
+        },
+        "Intel": {
+            "25F160S33B8": {
+                "bus": "SPI",
+                "jedec_id": "0x898911",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "25F160S33B8"
+            },
+            "25F160S33T8": {
+                "bus": "SPI",
+                "jedec_id": "0x898915",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "25F160S33T8"
+            },
+            "25F320S33B8": {
+                "bus": "SPI",
+                "jedec_id": "0x898912",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "25F320S33B8"
+            },
+            "25F320S33T8": {
+                "bus": "SPI",
+                "jedec_id": "0x898916",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "25F320S33T8"
+            },
+            "25F640S33B8": {
+                "bus": "SPI",
+                "jedec_id": "0x898913",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "25F640S33B8"
+            },
+            "25F640S33T8": {
+                "bus": "SPI",
+                "jedec_id": "0x898917",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "25F640S33T8"
+            },
+            "28F001BN/BX-B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x8995",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "28F001BN/BX-B"
+            },
+            "28F001BN/BX-T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x8994",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "28F001BN/BX-T"
+            },
+            "28F002BC/BL/BV/BX-T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x897c",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "28F002BC/BL/BV/BX-T"
+            },
+            "28F004B5/BE/BV/BX-B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x8979",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "28F004B5/BE/BV/BX-B"
+            },
+            "28F004B5/BE/BV/BX-T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x8978",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "28F004B5/BE/BV/BX-T"
+            },
+            "28F008S3/S5/SC": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x89a7",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "28F008S3/S5/SC"
+            },
+            "28F400BV/BX/CE/CV-B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x8971",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "28F400BV/BX/CE/CV-B"
+            },
+            "28F400BV/BX/CE/CV-T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x8970",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "28F400BV/BX/CE/CV-T"
+            }
+        },
+        "Macronix": {
+            "MX23L12854": {
+                "bus": "SPI",
+                "jedec_id": "0xc20518",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "MX23L12854"
+            },
+            "MX23L1654": {
+                "bus": "SPI",
+                "jedec_id": "0xc20515",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX23L1654"
+            },
+            "MX23L3254": {
+                "bus": "SPI",
+                "jedec_id": "0xc20516",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX23L3254"
+            },
+            "MX23L6454": {
+                "bus": "SPI",
+                "jedec_id": "0xc20517",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX23L6454"
+            },
+            "MX25L1005(C)/MX25L1006E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L1005(C)/MX25L1006E"
+            },
+            "MX25L12805D": {
+                "bus": "SPI",
+                "jedec_id": "0xc22018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L12805D"
+            },
+            "MX25L12833F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L12833F"
+            },
+            "MX25L12835F/MX25L12873F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L12835F/MX25L12873F"
+            },
+            "MX25L12845E/MX25L12865E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L12845E/MX25L12865E"
+            },
+            "MX25L12850F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L12850F"
+            },
+            "MX25L1605": {
+                "bus": "SPI",
+                "jedec_id": "0xc22015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L1605"
+            },
+            "MX25V16066": {
+                "bus": "SPI",
+                "jedec_id": "0xc22015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX25V16066"
+            },
+            "MX25L1605A/MX25L1606E/MX25L1608E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L1605A/MX25L1606E/MX25L1608E"
+            },
+            "MX25L1605D/MX25L1608D/MX25L1673E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L1605D/MX25L1608D/MX25L1673E"
+            },
+            "MX25L1635D": {
+                "bus": "SPI",
+                "jedec_id": "0xc22415",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L1635D"
+            },
+            "MX25L1633E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22415",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L1633E"
+            },
+            "MX25L1635E/MX25L1636E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22515",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L1635E/MX25L1636E"
+            },
+            "MX25L2005(C)/MX25L2006E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L2005(C)/MX25L2006E"
+            },
+            "MX25L25635F/MX25L25645G": {
+                "bus": "SPI",
+                "jedec_id": "0xc22019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L25635F/MX25L25645G"
+            },
+            "MX25L3205(A)": {
+                "bus": "SPI",
+                "jedec_id": "0xc22016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L3205(A)"
+            },
+            "MX25L3205D/MX25L3208D": {
+                "bus": "SPI",
+                "jedec_id": "0xc22016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L3205D/MX25L3208D"
+            },
+            "MX25L3206E/MX25L3208E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L3206E/MX25L3208E"
+            },
+            "MX25L3273F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L3273F"
+            },
+            "MX25L3239E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22536",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L3239E"
+            },
+            "MX25L3235D": {
+                "bus": "SPI",
+                "jedec_id": "0xc25e16",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L3235D"
+            },
+            "MX25L3233F/MX25L3273E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L3233F/MX25L3273E"
+            },
+            "MX25L3255E": {
+                "bus": "SPI",
+                "jedec_id": "0xc29e16",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L3255E"
+            },
+            "MX25L4005(A/C)/MX25L4006E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L4005(A/C)/MX25L4006E"
+            },
+            "MX25L512(E)/MX25V512(C)": {
+                "bus": "SPI",
+                "jedec_id": "0xc22010",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L512(E)/MX25V512(C)"
+            },
+            "MX25L5121E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22210",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L5121E"
+            },
+            "MX25L6405": {
+                "bus": "SPI",
+                "jedec_id": "0xc22017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L6405"
+            },
+            "MX25L6405D": {
+                "bus": "SPI",
+                "jedec_id": "0xc22017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L6405D"
+            },
+            "MX25L6406E/MX25L6408E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L6406E/MX25L6408E"
+            },
+            "MX25L6436E/MX25L6445E/MX25L6465E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L6436E/MX25L6445E/MX25L6465E"
+            },
+            "MX25L6473E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L6473E"
+            },
+            "MX25L6473F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L6473F"
+            },
+            "MX25L6495F": {
+                "bus": "SPI",
+                "jedec_id": "0xc29517",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L6495F"
+            },
+            "MX25L8005/MX25L8006E/MX25L8008E/MX25V8005": {
+                "bus": "SPI",
+                "jedec_id": "0xc22014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "MX25L8005/MX25L8006E/MX25L8008E/MX25V8005"
+            },
+            "MX25R1635F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22815",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX25R1635F"
+            },
+            "MX25R2035F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22812",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "MX25R2035F"
+            },
+            "MX25R3235F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22816",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX25R3235F"
+            },
+            "MX25R4035F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22813",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "MX25R4035F"
+            },
+            "MX25R6435F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22817",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX25R6435F"
+            },
+            "MX25R8035F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22814",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "MX25R8035F"
+            },
+            "MX25V4035F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22313",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "MX25V4035F"
+            },
+            "MX25V8035F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22314",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "MX25V8035F"
+            },
+            "MX25V1635F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22315",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX25V1635F"
+            },
+            "MX25U12835F/MX25U12873F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22538",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "MX25U12835F/MX25U12873F"
+            },
+            "MX25U1635E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22535",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "MX25U1635E"
+            },
+            "MX25U25635F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22539",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "MX25U25635F"
+            },
+            "MX25U25643G": {
+                "bus": "SPI",
+                "jedec_id": "0xc22539",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "MX25U25643G"
+            },
+            "MX25U25645G": {
+                "bus": "SPI",
+                "jedec_id": "0xc22539",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "MX25U25645G"
+            },
+            "MX25U3235E/F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22536",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX25U3235E/F"
+            },
+            "MX25U51245G": {
+                "bus": "SPI",
+                "jedec_id": "0xc2253a",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "MX25U51245G"
+            },
+            "MX25U6435E/F": {
+                "bus": "SPI",
+                "jedec_id": "0xc22537",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX25U6435E/F"
+            },
+            "MX25U8032E": {
+                "bus": "SPI",
+                "jedec_id": "0xc22534",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "MX25U8032E"
+            },
+            "MX29F001B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc219",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "MX29F001B"
+            },
+            "MX29F001T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc218",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "MX29F001T"
+            },
+            "MX29F002(N)B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc234",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "MX29F002(N)B"
+            },
+            "MX29F002(N)T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc2b0",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "MX29F002(N)T"
+            },
+            "MX29F022(N)B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc237",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "MX29F022(N)B"
+            },
+            "MX29F022(N)T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc236",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "MX29F022(N)T"
+            },
+            "MX29F040": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc2a4",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "MX29F040"
+            },
+            "MX29GL128F": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc27e2101",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "MX29GL128F"
+            },
+            "MX29GL320EB": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc27e1a00",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX29GL320EB"
+            },
+            "MX29GL320EH/L": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc27e1d00",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX29GL320EH/L"
+            },
+            "MX29GL320ET": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc27e1a01",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "MX29GL320ET"
+            },
+            "MX29GL640EB": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc27e1000",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX29GL640EB"
+            },
+            "MX29GL640EH/L": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc27e0c01",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX29GL640EH/L"
+            },
+            "MX29GL640ET": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc27e1001",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "MX29GL640ET"
+            },
+            "MX29LV040": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xc24f",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "MX29LV040"
+            },
+            "MX66L51235F/MX25L51245G": {
+                "bus": "SPI",
+                "jedec_id": "0xc2201a",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "MX66L51235F/MX25L51245G"
+            },
+            "MX66L1G45G": {
+                "bus": "SPI",
+                "jedec_id": "0xc2201b",
+                "size_kb": 131072,
+                "size_str": "131072 KB / 1024 Mbit",
+                "erase_blocks": [],
+                "name": "MX66L1G45G"
+            },
+            "MX77L25650F": {
+                "bus": "SPI",
+                "jedec_id": "0xc27519",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "MX77L25650F"
+            },
+            "MX77U25650F": {
+                "bus": "SPI",
+                "jedec_id": "0xc27539",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "MX77U25650F"
+            },
+            "MX77U51250F": {
+                "bus": "SPI",
+                "jedec_id": "0xc2753a",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "MX77U51250F"
+            }
+        },
+        "Micron/Numonyx/ST": {
+            "M25P05-A": {
+                "bus": "SPI",
+                "jedec_id": "0x202010",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "M25P05-A"
+            },
+            "M25P10-A": {
+                "bus": "SPI",
+                "jedec_id": "0x202011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "M25P10-A"
+            },
+            "M25P128": {
+                "bus": "SPI",
+                "jedec_id": "0x202018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "M25P128"
+            },
+            "M25P16": {
+                "bus": "SPI",
+                "jedec_id": "0x202015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "M25P16"
+            },
+            "M25P20": {
+                "bus": "SPI",
+                "jedec_id": "0x202012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "M25P20"
+            },
+            "M25P32": {
+                "bus": "SPI",
+                "jedec_id": "0x202016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "M25P32"
+            },
+            "M25P40": {
+                "bus": "SPI",
+                "jedec_id": "0x202013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "M25P40"
+            },
+            "M25P64": {
+                "bus": "SPI",
+                "jedec_id": "0x202017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "M25P64"
+            },
+            "M25P80": {
+                "bus": "SPI",
+                "jedec_id": "0x202014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "M25P80"
+            },
+            "M25PE10": {
+                "bus": "SPI",
+                "jedec_id": "0x208011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "M25PE10"
+            },
+            "M25PE16": {
+                "bus": "SPI",
+                "jedec_id": "0x208015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "M25PE16"
+            },
+            "M25PE20": {
+                "bus": "SPI",
+                "jedec_id": "0x208012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "M25PE20"
+            },
+            "M25PE40": {
+                "bus": "SPI",
+                "jedec_id": "0x208013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "M25PE40"
+            },
+            "M25PE80": {
+                "bus": "SPI",
+                "jedec_id": "0x208014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "M25PE80"
+            },
+            "M25PX16": {
+                "bus": "SPI",
+                "jedec_id": "0x207115",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "M25PX16"
+            },
+            "M25PX32": {
+                "bus": "SPI",
+                "jedec_id": "0x207116",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "M25PX32"
+            },
+            "M25PX64": {
+                "bus": "SPI",
+                "jedec_id": "0x207117",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "M25PX64"
+            },
+            "M25PX80": {
+                "bus": "SPI",
+                "jedec_id": "0x207114",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "M25PX80"
+            },
+            "M45PE10": {
+                "bus": "SPI",
+                "jedec_id": "0x204011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "M45PE10"
+            },
+            "M45PE16": {
+                "bus": "SPI",
+                "jedec_id": "0x204015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "M45PE16"
+            },
+            "M45PE20": {
+                "bus": "SPI",
+                "jedec_id": "0x204012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "M45PE20"
+            },
+            "M45PE40": {
+                "bus": "SPI",
+                "jedec_id": "0x204013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "M45PE40"
+            },
+            "M45PE80": {
+                "bus": "SPI",
+                "jedec_id": "0x204014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "M45PE80"
+            },
+            "N25Q00A..1G": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb21",
+                "size_kb": 131072,
+                "size_str": "131072 KB / 1024 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q00A..1G"
+            },
+            "N25Q00A..3G": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba21",
+                "size_kb": 131072,
+                "size_str": "131072 KB / 1024 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q00A..3G"
+            },
+            "N25Q016": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb15",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q016"
+            },
+            "N25Q032..1E": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb16",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q032..1E"
+            },
+            "N25Q032..3E": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba16",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q032..3E"
+            },
+            "N25Q064..1E": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb17",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q064..1E"
+            },
+            "N25Q064..3E": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba17",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q064..3E"
+            },
+            "N25Q128..1E": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb18",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q128..1E"
+            },
+            "N25Q128..3E": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba18",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q128..3E"
+            },
+            "N25Q256..1E": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb19",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q256..1E"
+            },
+            "N25Q256..3E": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba19",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q256..3E"
+            },
+            "N25Q512..1G": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb20",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q512..1G"
+            },
+            "N25Q512..3G": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba20",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "N25Q512..3G"
+            }
+        },
+        "Micron": {
+            "MT25QL01G": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba21",
+                "size_kb": 131072,
+                "size_str": "131072 KB / 1024 Mbit",
+                "erase_blocks": [],
+                "name": "MT25QL01G"
+            },
+            "MT25QU01G": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb21",
+                "size_kb": 131072,
+                "size_str": "131072 KB / 1024 Mbit",
+                "erase_blocks": [],
+                "name": "MT25QU01G"
+            },
+            "MT25QL02G": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba22",
+                "size_kb": 262144,
+                "size_str": "262144 KB / 2048 Mbit",
+                "erase_blocks": [],
+                "name": "MT25QL02G"
+            },
+            "MT25QU02G": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb22",
+                "size_kb": 262144,
+                "size_str": "262144 KB / 2048 Mbit",
+                "erase_blocks": [],
+                "name": "MT25QU02G"
+            },
+            "MT25QU128": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb18",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "MT25QU128"
+            },
+            "MT25QL128": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba18",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "MT25QL128"
+            },
+            "MT25QL256": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba19",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "MT25QL256"
+            },
+            "MT25QU256": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb19",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "MT25QU256"
+            },
+            "MT25QL512": {
+                "bus": "SPI",
+                "jedec_id": "0x20ba20",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "MT25QL512"
+            },
+            "MT25QU512": {
+                "bus": "SPI",
+                "jedec_id": "0x20bb20",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "MT25QU512"
+            },
+            "MT35XU02G": {
+                "bus": "SPI",
+                "jedec_id": "0x2c5b1c",
+                "size_kb": 262144,
+                "size_str": "262144 KB / 2048 Mbit",
+                "erase_blocks": [],
+                "name": "MT35XU02G"
+            }
+        },
+        "MoselVitelic": {
+            "V29C51000B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x40a0",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "V29C51000B"
+            },
+            "V29C51000T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x4000",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "V29C51000T"
+            },
+            "V29C51400B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x40b3",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "V29C51400B"
+            },
+            "V29C51400T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x4013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "V29C51400T"
+            },
+            "V29LC51000": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x4020",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "V29LC51000"
+            },
+            "V29LC51001": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x4060",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "V29LC51001"
+            },
+            "V29LC51002": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x4082",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "V29LC51002"
+            }
+        },
+        "Nantronics": {
+            "N25S10": {
+                "bus": "SPI",
+                "jedec_id": "0xd53011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "N25S10"
+            },
+            "N25S16": {
+                "bus": "SPI",
+                "jedec_id": "0xd53015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "N25S16"
+            },
+            "N25S20": {
+                "bus": "SPI",
+                "jedec_id": "0xd53012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "N25S20"
+            },
+            "N25S40": {
+                "bus": "SPI",
+                "jedec_id": "0xd53013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "N25S40"
+            },
+            "N25S80": {
+                "bus": "SPI",
+                "jedec_id": "0xd53014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "N25S80"
+            }
+        },
+        "PMC": {
+            "Pm25LD010(C)": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d21",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LD010(C)"
+            },
+            "Pm25LD020(C)": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d22",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LD020(C)"
+            },
+            "Pm25LD040(C)": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d7e",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LD040(C)"
+            },
+            "Pm25LD256C": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d2f",
+                "size_kb": 32,
+                "size_str": "32 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LD256C"
+            },
+            "Pm25LD512(C)": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d20",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LD512(C)"
+            },
+            "Pm25LQ016": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d45",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LQ016"
+            },
+            "Pm25LQ020": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d42",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LQ020"
+            },
+            "Pm25LQ032C": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d46",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LQ032C"
+            },
+            "Pm25LQ040": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d43",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LQ040"
+            },
+            "Pm25LQ080": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d44",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LQ080"
+            },
+            "Pm25LV010": {
+                "bus": "SPI",
+                "jedec_id": "0x9d7c",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LV010"
+            },
+            "Pm25LV010A": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d7c",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LV010A"
+            },
+            "Pm25LV016B": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d14",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LV016B"
+            },
+            "Pm25LV020": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d7d",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LV020"
+            },
+            "Pm25LV040": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d7e",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LV040"
+            },
+            "Pm25LV080B": {
+                "bus": "SPI",
+                "jedec_id": "0x7f9d13",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LV080B"
+            },
+            "Pm25LV512(A)": {
+                "bus": "SPI",
+                "jedec_id": "0x9d7b",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "Pm25LV512(A)"
+            },
+            "Pm29F002B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x9d2d",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "Pm29F002B"
+            },
+            "Pm29F002T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x9d1d",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "Pm29F002T"
+            },
+            "Pm39LV010": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x9d1c",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "Pm39LV010"
+            },
+            "Pm39LV020": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x9d3d",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "Pm39LV020"
+            },
+            "Pm39LV040": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x9d3e",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "Pm39LV040"
+            },
+            "Pm39LV512": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x9d1b",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "Pm39LV512"
+            }
+        },
+        "PUYA": {
+            "P25Q06H": {
+                "bus": "SPI",
+                "jedec_id": "0x854010",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "P25Q06H"
+            },
+            "P25Q11H": {
+                "bus": "SPI",
+                "jedec_id": "0x854011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "P25Q11H"
+            },
+            "P25Q21H": {
+                "bus": "SPI",
+                "jedec_id": "0x854012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "P25Q21H"
+            },
+            "P25D80H": {
+                "bus": "SPI",
+                "jedec_id": "0x856014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "P25D80H"
+            }
+        },
+        "SST": {
+            "SST25LF020A": {
+                "bus": "SPI",
+                "jedec_id": "0xbf43",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "SST25LF020A"
+            },
+            "SST25LF040A": {
+                "bus": "SPI",
+                "jedec_id": "0xbf44",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "SST25LF040A"
+            },
+            "SST25LF080(A)": {
+                "bus": "SPI",
+                "jedec_id": "0xbf80",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "SST25LF080(A)"
+            },
+            "SST25VF010(A)": {
+                "bus": "SPI",
+                "jedec_id": "0xbf49",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF010(A)"
+            },
+            "SST25VF016B": {
+                "bus": "SPI",
+                "jedec_id": "0xbf2541",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF016B"
+            },
+            "SST25VF020": {
+                "bus": "SPI",
+                "jedec_id": "0xbf43",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF020"
+            },
+            "SST25VF020B": {
+                "bus": "SPI",
+                "jedec_id": "0xbf258c",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF020B"
+            },
+            "SST25VF032B": {
+                "bus": "SPI",
+                "jedec_id": "0xbf254a",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF032B"
+            },
+            "SST25VF040": {
+                "bus": "SPI",
+                "jedec_id": "0xbf44",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF040"
+            },
+            "SST25VF040B": {
+                "bus": "SPI",
+                "jedec_id": "0xbf258d",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF040B"
+            },
+            "SST25VF040B.REMS": {
+                "bus": "SPI",
+                "jedec_id": "0xbf8d",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF040B.REMS"
+            },
+            "SST25VF064C": {
+                "bus": "SPI",
+                "jedec_id": "0xbf254b",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF064C"
+            },
+            "SST25VF080B": {
+                "bus": "SPI",
+                "jedec_id": "0xbf258e",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF080B"
+            },
+            "SST25VF512(A)": {
+                "bus": "SPI",
+                "jedec_id": "0xbf48",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "SST25VF512(A)"
+            },
+            "SST25WF010": {
+                "bus": "SPI",
+                "jedec_id": "0xbf2502",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "SST25WF010"
+            },
+            "SST25WF020": {
+                "bus": "SPI",
+                "jedec_id": "0xbf2503",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "SST25WF020"
+            },
+            "SST25WF020A": {
+                "bus": "SPI",
+                "jedec_id": "0x621612",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "SST25WF020A"
+            },
+            "SST25WF040": {
+                "bus": "SPI",
+                "jedec_id": "0xbf2504",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "SST25WF040"
+            },
+            "SST25WF040B": {
+                "bus": "SPI",
+                "jedec_id": "0x621613",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "SST25WF040B"
+            },
+            "SST25WF080": {
+                "bus": "SPI",
+                "jedec_id": "0xbf2505",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "SST25WF080"
+            },
+            "SST25WF080B": {
+                "bus": "SPI",
+                "jedec_id": "0x621614",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "SST25WF080B"
+            },
+            "SST25WF512": {
+                "bus": "SPI",
+                "jedec_id": "0xbf2501",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "SST25WF512"
+            },
+            "SST26VF016B(A)": {
+                "bus": "SPI",
+                "jedec_id": "0xbf2641",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "SST26VF016B(A)"
+            },
+            "SST26VF032B(A)": {
+                "bus": "SPI",
+                "jedec_id": "0xbf2642",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "SST26VF032B(A)"
+            },
+            "SST26VF064B(A)": {
+                "bus": "SPI",
+                "jedec_id": "0xbf2643",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "SST26VF064B(A)"
+            },
+            "SST28SF040A": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbf04",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "SST28SF040A"
+            },
+            "SST29EE010": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbf07",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "SST29EE010"
+            },
+            "SST29EE020A": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbf10",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "SST29EE020A"
+            },
+            "SST29LE010": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbf08",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "SST29LE010"
+            },
+            "SST29LE020": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbf12",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "SST29LE020"
+            },
+            "SST39SF010A": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbfb5",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "SST39SF010A"
+            },
+            "SST39SF020A": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbfb6",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "SST39SF020A"
+            },
+            "SST39SF040": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbfb7",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "SST39SF040"
+            },
+            "SST39SF512": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbfb4",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "SST39SF512"
+            },
+            "SST39VF010": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbfd5",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "SST39VF010"
+            },
+            "SST39VF020": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbfd6",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "SST39VF020"
+            },
+            "SST39VF040": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbfd7",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "SST39VF040"
+            },
+            "SST39VF080": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbfd8",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "SST39VF080"
+            },
+            "SST39VF512": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xbfd4",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "SST39VF512"
+            }
+        },
+        "ST": {
+            "M29F002B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x2034",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "M29F002B"
+            },
+            "M29F002T/NT": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x20b0",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "M29F002T/NT"
+            },
+            "M29F040B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x20e2",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "M29F040B"
+            },
+            "M29W010B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x2023",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "M29W010B"
+            },
+            "M29W040B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x20e3",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "M29W040B"
+            },
+            "M29W512B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x2027",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "M29W512B"
+            },
+            "M95M02": {
+                "bus": "SPI",
+                "jedec_id": "0x200012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "M95M02"
+            }
+        },
+        "Sanyo": {
+            "LE25FU106B": {
+                "bus": "SPI",
+                "jedec_id": "0x621d",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FU106B"
+            },
+            "LE25FU206": {
+                "bus": "SPI",
+                "jedec_id": "0x6244",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FU206"
+            },
+            "LE25FU206A": {
+                "bus": "SPI",
+                "jedec_id": "0x620612",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FU206A"
+            },
+            "LE25FU406B": {
+                "bus": "SPI",
+                "jedec_id": "0x621e",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FU406B"
+            },
+            "LE25FU406C/LE25U40CMC": {
+                "bus": "SPI",
+                "jedec_id": "0x620613",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FU406C/LE25U40CMC"
+            },
+            "LE25FW106": {
+                "bus": "SPI",
+                "jedec_id": "0x6215",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FW106"
+            },
+            "LE25FW203A": {
+                "bus": "SPI",
+                "jedec_id": "0x621600",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FW203A"
+            },
+            "LE25FW403A": {
+                "bus": "SPI",
+                "jedec_id": "0x621100",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FW403A"
+            },
+            "LE25FW406A": {
+                "bus": "SPI",
+                "jedec_id": "0x621a",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FW406A"
+            },
+            "LE25FW418A": {
+                "bus": "SPI",
+                "jedec_id": "0x6210",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FW418A"
+            },
+            "LE25FW806": {
+                "bus": "SPI",
+                "jedec_id": "0x6226",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FW806"
+            },
+            "LE25FW808": {
+                "bus": "SPI",
+                "jedec_id": "0x6220",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "LE25FW808"
+            }
+        },
+        "Sharp": {
+            "LH28F008BJT-BTLZ1": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xb0ed",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "LH28F008BJT-BTLZ1"
+            }
+        },
+        "Spansion": {
+            "S25FL004A": {
+                "bus": "SPI",
+                "jedec_id": "0x010212",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL004A"
+            },
+            "S25FL008A": {
+                "bus": "SPI",
+                "jedec_id": "0x010213",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL008A"
+            },
+            "S25FL016A": {
+                "bus": "SPI",
+                "jedec_id": "0x010214",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL016A"
+            },
+            "S25FL032A/P": {
+                "bus": "SPI",
+                "jedec_id": "0x010215",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL032A/P"
+            },
+            "S25FL064A/P": {
+                "bus": "SPI",
+                "jedec_id": "0x010216",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL064A/P"
+            },
+            "S25FL116K/S25FL216K": {
+                "bus": "SPI",
+                "jedec_id": "0x014015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL116K/S25FL216K"
+            },
+            "S25FL127S-256kB": {
+                "bus": "SPI",
+                "jedec_id": "0x012018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL127S-256kB"
+            },
+            "S25FL127S-64kB": {
+                "bus": "SPI",
+                "jedec_id": "0x012018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL127S-64kB"
+            },
+            "S25FL128L": {
+                "bus": "SPI",
+                "jedec_id": "0x016018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL128L"
+            },
+            "S25FL128P......0": {
+                "bus": "SPI",
+                "jedec_id": "0x012018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL128P......0"
+            },
+            "S25FL128P......1": {
+                "bus": "SPI",
+                "jedec_id": "0x012018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL128P......1"
+            },
+            "S25FL128S......0": {
+                "bus": "SPI",
+                "jedec_id": "0x012018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL128S......0"
+            },
+            "S25FL128S......1": {
+                "bus": "SPI",
+                "jedec_id": "0x012018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL128S......1"
+            },
+            "S25FL128S_UL Uniform 128 kB Sectors": {
+                "bus": "SPI",
+                "jedec_id": "0x0120180080",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL128S_UL Uniform 128 kB Sectors"
+            },
+            "S25FL128S_US Uniform 64 kB Sectors": {
+                "bus": "SPI",
+                "jedec_id": "0x0120180180",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL128S_US Uniform 64 kB Sectors"
+            },
+            "S25FL129P......0": {
+                "bus": "SPI",
+                "jedec_id": "0x012018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL129P......0"
+            },
+            "S25FL129P......1": {
+                "bus": "SPI",
+                "jedec_id": "0x012018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL129P......1"
+            },
+            "S25FL132K": {
+                "bus": "SPI",
+                "jedec_id": "0x014016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL132K"
+            },
+            "S25FL164K": {
+                "bus": "SPI",
+                "jedec_id": "0x014017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL164K"
+            },
+            "S25FL204K": {
+                "bus": "SPI",
+                "jedec_id": "0x014013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL204K"
+            },
+            "S25FL208K": {
+                "bus": "SPI",
+                "jedec_id": "0x014014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL208K"
+            },
+            "S25FL256L": {
+                "bus": "SPI",
+                "jedec_id": "0x016019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL256L"
+            },
+            "S25FL256S Large Sectors": {
+                "bus": "SPI",
+                "jedec_id": "0x0102190080",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL256S Large Sectors"
+            },
+            "S25FL256S Small Sectors": {
+                "bus": "SPI",
+                "jedec_id": "0x0102190180",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL256S Small Sectors"
+            },
+            "S25FL256S......0": {
+                "bus": "SPI",
+                "jedec_id": "0x010219",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL256S......0"
+            },
+            "S25FL512S": {
+                "bus": "SPI",
+                "jedec_id": "0x0102200080",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "S25FL512S"
+            },
+            "S25FS128S Large Sectors": {
+                "bus": "SPI",
+                "jedec_id": "0x0120180081",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FS128S Large Sectors"
+            },
+            "S25FS128S Small Sectors": {
+                "bus": "SPI",
+                "jedec_id": "0x0120180181",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "S25FS128S Small Sectors"
+            },
+            "S25FS512S": {
+                "bus": "SPI",
+                "jedec_id": "0x0102200081",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "S25FS512S"
+            }
+        },
+        "SyncMOS/MoselVitelic": {
+            "{F,S,V}29C51001B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x40a1",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "{F,S,V}29C51001B"
+            },
+            "{F,S,V}29C51001T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x4001",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "{F,S,V}29C51001T"
+            },
+            "{F,S,V}29C51002B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x40a2",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "{F,S,V}29C51002B"
+            },
+            "{F,S,V}29C51002T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x4002",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "{F,S,V}29C51002T"
+            },
+            "{F,S,V}29C51004B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x40a3",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "{F,S,V}29C51004B"
+            },
+            "{F,S,V}29C51004T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x4003",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "{F,S,V}29C51004T"
+            },
+            "{S,V}29C31004B": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x4073",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "{S,V}29C31004B"
+            },
+            "{S,V}29C31004T": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x4063",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "{S,V}29C31004T"
+            }
+        },
+        "TI": {
+            "TMS29F002RB": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x0134",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "TMS29F002RB"
+            },
+            "TMS29F002RT": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x01b0",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "TMS29F002RT"
+            }
+        },
+        "Winbond": {
+            "W25P16": {
+                "bus": "SPI",
+                "jedec_id": "0xef2015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "W25P16"
+            },
+            "W25P32": {
+                "bus": "SPI",
+                "jedec_id": "0xef2016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W25P32"
+            },
+            "W25P80": {
+                "bus": "SPI",
+                "jedec_id": "0xef2014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "W25P80"
+            },
+            "W25Q128.V": {
+                "bus": "SPI",
+                "jedec_id": "0xef4018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q128.V"
+            },
+            "W25Q128.V..M": {
+                "bus": "SPI",
+                "jedec_id": "0xef7018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q128.V..M"
+            },
+            "W25Q128.W": {
+                "bus": "SPI",
+                "jedec_id": "0xef6018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q128.W"
+            },
+            "W25Q128.JW.DTR": {
+                "bus": "SPI",
+                "jedec_id": "0xef8018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q128.JW.DTR"
+            },
+            "W25Q16JV_M": {
+                "bus": "SPI",
+                "jedec_id": "0xef7015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q16JV_M"
+            },
+            "W25Q16.V": {
+                "bus": "SPI",
+                "jedec_id": "0xef4015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q16.V"
+            },
+            "W25Q16.W": {
+                "bus": "SPI",
+                "jedec_id": "0xef6015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q16.W"
+            },
+            "W25Q20.W": {
+                "bus": "SPI",
+                "jedec_id": "0xef5012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q20.W"
+            },
+            "W25Q256FV": {
+                "bus": "SPI",
+                "jedec_id": "0xef4019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q256FV"
+            },
+            "W25Q256JV_Q": {
+                "bus": "SPI",
+                "jedec_id": "0xef4019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q256JV_Q"
+            },
+            "W25Q256JV_M": {
+                "bus": "SPI",
+                "jedec_id": "0xef7019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q256JV_M"
+            },
+            "W25Q512JV_M": {
+                "bus": "SPI",
+                "jedec_id": "0xef7020",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q512JV_M"
+            },
+            "W25Q256JW": {
+                "bus": "SPI",
+                "jedec_id": "0xef6019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q256JW"
+            },
+            "W25R512NW/W74M51NW": {
+                "bus": "SPI",
+                "jedec_id": "0xef6020",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "W25R512NW/W74M51NW"
+            },
+            "W25Q256JW_DTR": {
+                "bus": "SPI",
+                "jedec_id": "0xef8019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q256JW_DTR"
+            },
+            "W25Q32BV/W25Q32CV/W25Q32DV": {
+                "bus": "SPI",
+                "jedec_id": "0xef4016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q32BV/W25Q32CV/W25Q32DV"
+            },
+            "W25Q32FV": {
+                "bus": "SPI",
+                "jedec_id": "0xef4016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q32FV"
+            },
+            "W25Q32JV_M": {
+                "bus": "SPI",
+                "jedec_id": "0xef7016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q32JV_M"
+            },
+            "W25Q32JV": {
+                "bus": "SPI",
+                "jedec_id": "0xef4016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q32JV"
+            },
+            "W25Q32BW/W25Q32CW/W25Q32DW": {
+                "bus": "SPI",
+                "jedec_id": "0xef6016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q32BW/W25Q32CW/W25Q32DW"
+            },
+            "W25Q32FW": {
+                "bus": "SPI",
+                "jedec_id": "0xef6016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q32FW"
+            },
+            "W25Q32JW...Q": {
+                "bus": "SPI",
+                "jedec_id": "0xef6016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q32JW...Q"
+            },
+            "W25Q32JW...M": {
+                "bus": "SPI",
+                "jedec_id": "0xef8016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q32JW...M"
+            },
+            "W25Q40.V": {
+                "bus": "SPI",
+                "jedec_id": "0xef4013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q40.V"
+            },
+            "W25Q40BW": {
+                "bus": "SPI",
+                "jedec_id": "0xef5013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q40BW"
+            },
+            "W25Q40EW": {
+                "bus": "SPI",
+                "jedec_id": "0xef6013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q40EW"
+            },
+            "W25Q512JV": {
+                "bus": "SPI",
+                "jedec_id": "0xef4020",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q512JV"
+            },
+            "W25Q512NW-IM": {
+                "bus": "SPI",
+                "jedec_id": "0xef8020",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q512NW-IM"
+            },
+            "W25Q64BV/W25Q64CV/W25Q64FV": {
+                "bus": "SPI",
+                "jedec_id": "0xef4017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q64BV/W25Q64CV/W25Q64FV"
+            },
+            "W25Q64JV-.Q": {
+                "bus": "SPI",
+                "jedec_id": "0xef4017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q64JV-.Q"
+            },
+            "W25Q64JV-.M": {
+                "bus": "SPI",
+                "jedec_id": "0xef7017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q64JV-.M"
+            },
+            "W25Q64.W": {
+                "bus": "SPI",
+                "jedec_id": "0xef6017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q64.W"
+            },
+            "W25Q64JW...M": {
+                "bus": "SPI",
+                "jedec_id": "0xef8017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q64JW...M"
+            },
+            "W25Q80BV/W25Q80DV": {
+                "bus": "SPI",
+                "jedec_id": "0xef4014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q80BV/W25Q80DV"
+            },
+            "W25Q80RV": {
+                "bus": "SPI",
+                "jedec_id": "0xef4014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q80RV"
+            },
+            "W25Q80BW": {
+                "bus": "SPI",
+                "jedec_id": "0xef5014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q80BW"
+            },
+            "W25Q80EW": {
+                "bus": "SPI",
+                "jedec_id": "0xef6014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "W25Q80EW"
+            },
+            "W25X05": {
+                "bus": "SPI",
+                "jedec_id": "0xef3010",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "W25X05"
+            },
+            "W25X10": {
+                "bus": "SPI",
+                "jedec_id": "0xef3011",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "W25X10"
+            },
+            "W25X16": {
+                "bus": "SPI",
+                "jedec_id": "0xef3015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "W25X16"
+            },
+            "W25X20": {
+                "bus": "SPI",
+                "jedec_id": "0xef3012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "W25X20"
+            },
+            "W25X32": {
+                "bus": "SPI",
+                "jedec_id": "0xef3016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W25X32"
+            },
+            "W25X40": {
+                "bus": "SPI",
+                "jedec_id": "0xef3013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "W25X40"
+            },
+            "W25X64": {
+                "bus": "SPI",
+                "jedec_id": "0xef3017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "W25X64"
+            },
+            "W25X80": {
+                "bus": "SPI",
+                "jedec_id": "0xef3014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "W25X80"
+            },
+            "W35T02NW": {
+                "bus": "SPI",
+                "jedec_id": "0xef5b1c",
+                "size_kb": 262144,
+                "size_str": "262144 KB / 2048 Mbit",
+                "erase_blocks": [],
+                "name": "W35T02NW"
+            },
+            "W29C010(M)/W29C011A/W29EE011/W29EE012": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xdac1",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "W29C010(M)/W29C011A/W29EE011/W29EE012"
+            },
+            "W29C010(M)/W29C011A/W29EE011/W29EE012-old": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xdac1",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "W29C010(M)/W29C011A/W29EE011/W29EE012-old"
+            },
+            "W29C020(C)/W29C022": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xda45",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "W29C020(C)/W29C022"
+            },
+            "W29C040/P": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xda46",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "W29C040/P"
+            },
+            "W29C512A/W29EE512": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xdac8",
+                "size_kb": 64,
+                "size_str": "64 KB / 0 Mbit",
+                "erase_blocks": [],
+                "name": "W29C512A/W29EE512"
+            },
+            "W29GL032CB": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x017e1a00",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W29GL032CB"
+            },
+            "W29GL032CH/L": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x017e1d01",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W29GL032CH/L"
+            },
+            "W29GL032CT": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x017e1a01",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "W29GL032CT"
+            },
+            "W29GL064CB": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x017e1000",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "W29GL064CB"
+            },
+            "W29GL064CH/L": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x017e0c01",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "W29GL064CH/L"
+            },
+            "W29GL064CT": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x017e1001",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "W29GL064CT"
+            },
+            "W29GL128C": {
+                "bus": "PARALLEL",
+                "jedec_id": "0x017e2101",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "W29GL128C"
+            },
+            "W39F010": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xdaa1",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "W39F010"
+            },
+            "W39L010": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xda31",
+                "size_kb": 128,
+                "size_str": "128 KB / 1 Mbit",
+                "erase_blocks": [],
+                "name": "W39L010"
+            },
+            "W39L020": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xdab5",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "W39L020"
+            },
+            "W39L040": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xdab6",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "W39L040"
+            },
+            "W49F002U/N": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xda0b",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "W49F002U/N"
+            },
+            "W49F020": {
+                "bus": "PARALLEL",
+                "jedec_id": "0xda8c",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "W49F020"
+            }
+        },
+        "XMC": {
+            "XM25QH80B": {
+                "bus": "SPI",
+                "jedec_id": "0x204014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QH80B"
+            },
+            "XM25QU80B": {
+                "bus": "SPI",
+                "jedec_id": "0x205014",
+                "size_kb": 1024,
+                "size_str": "1024 KB / 8 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QU80B"
+            },
+            "XM25QH16C/XM25QH16D": {
+                "bus": "SPI",
+                "jedec_id": "0x204015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QH16C/XM25QH16D"
+            },
+            "XM25QU16C": {
+                "bus": "SPI",
+                "jedec_id": "0x205015",
+                "size_kb": 2048,
+                "size_str": "2048 KB / 16 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QU16C"
+            },
+            "XM25QH32C/XM25QH32D": {
+                "bus": "SPI",
+                "jedec_id": "0x204016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QH32C/XM25QH32D"
+            },
+            "XM25QU32C": {
+                "bus": "SPI",
+                "jedec_id": "0x205016",
+                "size_kb": 4096,
+                "size_str": "4096 KB / 32 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QU32C"
+            },
+            "XM25QH64C/XM25QH64D": {
+                "bus": "SPI",
+                "jedec_id": "0x204017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QH64C/XM25QH64D"
+            },
+            "XM25QU64C/XM25LU64C": {
+                "bus": "SPI",
+                "jedec_id": "0x204117",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QU64C/XM25LU64C"
+            },
+            "XM25QH64A": {
+                "bus": "SPI",
+                "jedec_id": "0x207017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QH64A"
+            },
+            "XM25QH128A": {
+                "bus": "SPI",
+                "jedec_id": "0x207018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QH128A"
+            },
+            "XM25QH128C/XM25QH128D": {
+                "bus": "SPI",
+                "jedec_id": "0x204018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QH128C/XM25QH128D"
+            },
+            "XM25QU128C/XM25QU128D": {
+                "bus": "SPI",
+                "jedec_id": "0x204118",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QU128C/XM25QU128D"
+            },
+            "XM25QH256C/XM25QH256D": {
+                "bus": "SPI",
+                "jedec_id": "0x204019",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QH256C/XM25QH256D"
+            },
+            "XM25QU256C/XM25QU256D": {
+                "bus": "SPI",
+                "jedec_id": "0x204119",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QU256C/XM25QU256D"
+            },
+            "XM25RU256C": {
+                "bus": "SPI",
+                "jedec_id": "0x204419",
+                "size_kb": 32768,
+                "size_str": "32768 KB / 256 Mbit",
+                "erase_blocks": [],
+                "name": "XM25RU256C"
+            },
+            "XM25QH512C/XM25QH512D": {
+                "bus": "SPI",
+                "jedec_id": "0x204020",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QH512C/XM25QH512D"
+            },
+            "XM25QU512C/XM25QU512D": {
+                "bus": "SPI",
+                "jedec_id": "0x204120",
+                "size_kb": 65536,
+                "size_str": "65536 KB / 512 Mbit",
+                "erase_blocks": [],
+                "name": "XM25QU512C/XM25QU512D"
+            }
+        },
+        "XTX Technology Limited": {
+            "XT25F02E": {
+                "bus": "SPI",
+                "jedec_id": "0x0b4012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "XT25F02E"
+            },
+            "XT25F64B": {
+                "bus": "SPI",
+                "jedec_id": "0x0b4017",
+                "size_kb": 8192,
+                "size_str": "8192 KB / 64 Mbit",
+                "erase_blocks": [],
+                "name": "XT25F64B"
+            },
+            "XT25F128B": {
+                "bus": "SPI",
+                "jedec_id": "0x0b4018",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "XT25F128B"
+            }
+        },
+        "Zetta Device": {
+            "ZD25D20": {
+                "bus": "SPI",
+                "jedec_id": "0xba2012",
+                "size_kb": 256,
+                "size_str": "256 KB / 2 Mbit",
+                "erase_blocks": [],
+                "name": "ZD25D20"
+            },
+            "ZD25D40": {
+                "bus": "SPI",
+                "jedec_id": "0xba2013",
+                "size_kb": 512,
+                "size_str": "512 KB / 4 Mbit",
+                "erase_blocks": [],
+                "name": "ZD25D40"
+            },
+            "ZD25LQ128": {
+                "bus": "SPI",
+                "jedec_id": "0xba17",
+                "size_kb": 16384,
+                "size_str": "16384 KB / 128 Mbit",
+                "erase_blocks": [],
+                "name": "ZD25LQ128"
+            }
+        }
+    }
+}
